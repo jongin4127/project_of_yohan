@@ -10,6 +10,5 @@
 ###### This is a H6
 {링크}(https://meet.google.com/cnw-vmsr-mad?authuser=0
 {링크 2} ( https://youtu.be/XIMLoLxmTD   
-! {이미지} ( https://whynot666.files.wordpress.com/2012/09/zzzzz.jpeg?w=460&h=306 )
-!{}(https://github.com/jongin4127/project_of_yohan/blob/main/zzzzz.jpeg?raw=true)
+!{이미지} ( https://whynot666.files.wordpress.com/2012/09/zzzzz.jpeg?w=460&h=306 )
 ![](https://github.com/jongin4127/project_of_yohan/blob/main/zzzzz.jpeg?raw=true)
